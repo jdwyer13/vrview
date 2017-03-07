@@ -16,4 +16,4 @@ Relevant commands:
     npm build - builds the iframe embed.
     npm build-api - builds the JS API.
     npm watch - auto-builds the iframe embed whenever any source changes.
-    npm watch-api - auto-builds the JS API code whenever any source changes.
+    npm watch-api - auto-builds the JS API code whenever any source changes. 
